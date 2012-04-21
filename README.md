@@ -17,3 +17,4 @@ http://leaverou.github.com/prefixfree/
 download the zip or fork it. enjoy uxstrap!
 
 me@harrysaputra.com
+http://harrysaputra.com
